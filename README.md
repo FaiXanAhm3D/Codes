@@ -1,8 +1,7 @@
-# Codes
-- Hello, I am Faizan Ahmed
-- I am interested in any kind of programming
-- Currently i am learning python, MySQL and mysql-python
-- You can contact me on my email id: faizanahmed24072000@gmai.com
-- I am very new to this platform (joined on 10-3-2024) so i dont really know how to handle things here.
-Currently i am learning python and looking forward to learn more languages and decide whats best for me in the future.
-And as of now I am giving my finals of class 12th Board examination.
+# Python-MySQL
+- Here in this program I've written codes to interact with any database on our computer through Python, connected with MySQL.
+- This  program could generate basic queries for MySQL, based on the input of the user, and then run the queries to get the desired result(s).
+- This program is not meant to handle any nested queries of MySQL and could only generate simple queries.
+- I've used mysql.connector, traceback, sys modules.
+- The traceback and sys modules are used to get the position and the reaason of an error in the code. (I dont have any indept knowledge of traceback and sys module and I've just used it here for a very specific task).
+- If anyone could comeup with ideas to imporve this program (maybe make it able to generate nested and more complex queries) then please let me know.
